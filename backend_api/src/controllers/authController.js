@@ -1,0 +1,1 @@
+// Controlador propuesto de autenticación

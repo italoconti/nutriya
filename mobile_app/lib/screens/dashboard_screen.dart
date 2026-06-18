@@ -1,0 +1,1 @@
+// Pantalla propuesta: dashboard diario
